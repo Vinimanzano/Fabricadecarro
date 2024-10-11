@@ -13,7 +13,7 @@
 - 0 Copie o endereço de URL para baixar o repositório
 - 1 Clone este repositório
 - 2 Abrir com o Visual Studio Code e abrir um terminal cmd ou bash
-- 3 Use "cd api" para entrar na pasta api
+- 3 Use `cd fabricadecarro` `cd api` para entrar na pasta api
 - 4 Instalar as dependências com o comando `npm install`
 - 5 Criar um arquivo `.env` na pasta api do projeto e adicionar as variáveis de ambiente
 ```js
